@@ -2,7 +2,14 @@
 The course teaching the logic circuit of adder, multiplier, comparator, decoder, multiplexer, latches &amp; flip flops, registers, counters, memory by using verilog.  
   
   
-> **\* Copyright Notice:** Files marked with `*` (course introduction slides and lab assignment PDFs `DSLab*.pdf`) are course materials whose copyright belongs to the course professor. They are shared here solely for personal academic reference.
+---
+
+## ⚠️ Disclaimer  
+The contents of this repository are for personal study and academic exchange only.
+
+If you are currently taking a related course, it is recommended that you implement the solutions yourself after referring to the logic. Please do not directly copy and paste to maintain academic integrity.
+
+The copyright of some questions and PDF instructions belongs to the course instructor.
 
   
 *2023.09 ~ 2024.01*  

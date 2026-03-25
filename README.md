@@ -1,6 +1,8 @@
 # Digital-System-Laboratory
+
 The course teaching the logic circuit of adder, multiplier, comparator, decoder, multiplexer, latches &amp; flip flops, registers, counters, memory by using verilog.  
-  
+
+*2023.09 ~ 2024.01*  
   
 ---
 
@@ -12,4 +14,4 @@ If you are currently taking a related course, it is recommended that you impleme
 The copyright of some questions and PDF instructions belongs to the course instructor.
 
   
-*2023.09 ~ 2024.01*  
+

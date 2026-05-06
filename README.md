@@ -11,7 +11,7 @@ The contents of this repository are for personal study and academic exchange onl
 
 If you are currently taking a related course, it is recommended that you implement the solutions yourself after referring to the logic. Please do not directly copy and paste to maintain academic integrity.
 
-The copyright of some questions and PDF instructions belongs to the course instructor.
+The copyright of some questions and PDF instructions belongs to the NSYSU course instructor.
 
   
 

@@ -1,0 +1,5 @@
+# Ignore PowerPoint files
+*.ppt
+*.pptx
+
+DSLab*.pdf
